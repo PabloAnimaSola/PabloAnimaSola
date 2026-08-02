@@ -12,7 +12,7 @@ Here are my programming skills:
 ### Back-End
 
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=java,bash,php" title="Java Bash PHP" />
+    <img src="https://skillicons.dev/icons?i=java,cs,bash,php" title="Java CSharp Bash PHP" />
 </p>
 
 ### DevOps Tools
