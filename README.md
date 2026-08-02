@@ -6,55 +6,55 @@ Here are my programming skills:
 
 ### Front-End
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=html,css,js" />
+    <img src="https://skillicons.dev/icons?i=html,css,js" title="HTML CSS JavaScript" />
 </p>
 
 ### Back-End
 
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=java,bash,php" />
+    <img src="https://skillicons.dev/icons?i=java,bash,php" title="Java Bash PHP" />
 </p>
 
 ### DevOps Tools
 
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=jenkins,docker,k8s,grafana,git,githubactions,terraform" />
+    <img src="https://skillicons.dev/icons?i=jenkins,docker,k8s,grafana,git,githubactions,terraform" title="Jenkins Docker Kubernetes Grafana Git GitHubActions Terraform" />
 </p>
 
 ### Cloud
 
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,azure" />
+    <img src="https://skillicons.dev/icons?i=aws,gcp,azure" title="AWS GoogleCloud Azure" />
 </p>
 
 ### Frameworks
 
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=bootstrap,vite" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,vite" title="Bootstrap Vite" />
 </p>
 
 ### IDEs
 
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=visualstudio,idea,rider,androidstudio," />
+    <img src="https://skillicons.dev/icons?i=visualstudio,idea,rider,androidstudio" title="VisualStudio IntellijIDEA Rider AndroidStudio" />
 </p>
 
 ### DataBases
 
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=mysql" />
+    <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
 </p>
 
 ### Text Editors
 
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=vscode,vim" />
+    <img src="https://skillicons.dev/icons?i=vscode,vim" title="VisualStudioCode Vim" />
 </p>
 
 ### Other Technologies
 
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=figma,firebase,maven,nginx,redhat" />
+    <img src="https://skillicons.dev/icons?i=figma,firebase,maven,nginx,redhat" title="Figma Firebase Maven Nginx RedHat"/>
 </p>
 
 Most of my repos are just tests and exercises I do to further develop my skills!
