@@ -20,6 +20,7 @@ Here are my programming skills:
 <p align="left">
     <img src="https://skillicons.dev/icons?i=bash,python" title="Bash Python" />
 </p>
+
 ### DevOps Tools
 
 <p align="left">
