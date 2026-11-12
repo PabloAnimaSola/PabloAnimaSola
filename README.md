@@ -18,7 +18,7 @@ Here are my programming skills:
 ### Scripting
 
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=bash,python" title="Bash Python" />
+    <img src="https://skillicons.dev/icons?i=bash" title="Bash" />
 </p>
 
 ### DevOps Tools
